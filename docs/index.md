@@ -1,17 +1,19 @@
-# CareerZen Help Center
+# Managing Your Account
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Deleting Your Account
 
-## Commands
+Upon deleting your account, please be advised of the following:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### For Companies:
 
-## Project layout
+- **Email Reservation:** Your email address will be permanently reserved and cannot be used to create a new account in the future.
+- **Job Posting Visibility:** Your job postings will remain visible to the applicants who have applied.
+- **Message Visibility:** Your messages with applicants will remain visible to the respective applicants which have applied.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### For Individuals:
+
+- **Email and Username Reservation:** Your email address and username will be permanently reserved and cannot be used to create a new account in the future.
+- **Resume Privacy:** All resumes you have published will be set to private, rendering them inaccessible to any viewers.
+- **Shared Links Deactivation:** Any shared links to your resumes will become inactive and will no longer function.
+- **Job Application Visibility:** Your job applications will remain visible to the companies to which you have applied.
+- **Message Visibility:** Your messages with companies will remain visible to the respective companies to which you have applied.
