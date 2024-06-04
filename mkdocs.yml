@@ -1,3 +1,7 @@
 site_name: CareerZen Help
 theme:
   name: material
+  palette:
+    scheme: careerZen
+extra_css:
+  - stylesheets/extra.css
