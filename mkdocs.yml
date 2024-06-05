@@ -1,7 +1,21 @@
 site_name: CareerZen Help
 theme:
   name: material
+  
   palette:
-    scheme: careerZen
+    - scheme: careerZen
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+        primary: custom
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode    
+      primary: custom
+      accent: lime
+
+copyright: |
+  &copy; 2024 <a href="https://careerzen.com"  target="_blank" rel="noopener">CarrerZen</a>
 extra_css:
   - stylesheets/extra.css
