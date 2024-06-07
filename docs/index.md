@@ -2,6 +2,14 @@
 
 ## Deleting Your Account
 
+To delete your account, please follow these steps:
+
+1. Log into your CareerZen account.
+2. Click on the profile section and select settings.
+3. Click on the delete account button.
+4. Confirm your password.
+5. Your account is deleted!
+
 Upon deleting your account, please be advised of the following:
 
 ### For Companies
